@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "friends:block/8c7f84f67de9f86056f7..._imresizer",
+    "up": "friends:block/8c7f84f67de9f86056f7..._imresizer",
+    "north": "friends:block/8c7f84f67de9f86056f7..._imresizer",
+    "east": "friends:block/8c7f84f67de9f86056f7..._imresizer",
+    "south": "friends:block/8c7f84f67de9f86056f7..._imresizer",
+    "west": "friends:block/8c7f84f67de9f86056f7..._imresizer",
+    "particle": "friends:block/8c7f84f67de9f86056f7..._imresizer"
+  },
+  "render_type": "solid"
+}
